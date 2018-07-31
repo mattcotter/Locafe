@@ -2,6 +2,8 @@
 
 > Cafe locator
 
+Note: Missing config file intentionally as to not make google maps api key public. 
+
 ## Build Setup
 
 ``` bash
