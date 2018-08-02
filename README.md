@@ -2,6 +2,13 @@
 
 > Cafe locator
 
+Color scheme: 
+- #7E553C
+- #FEDAC6
+- #FDA978
+- #7E6D62
+- #CC8760
+
 Note: Missing config file intentionally as to not make google maps api key public. 
 
 ## Build Setup
